@@ -1,7 +1,24 @@
 Changelog
 =========
 
-3.3 (unreleased)
+3.4 (unreleased)
+----------------
+
+- Nothing changed yet.
+
+
+3.3.2 (2015-07-20)
+------------------
+
+- Release Photologue as a universal wheel.
+
+
+3.3.1 (2015-07-20)
+------------------
+
+- Upload of 3.3 to Pypi had failed.
+
+3.3 (2015-07-20)
 ----------------
 
 - In the initial data setup, the 'thumbnail' photosizes should not increment the
